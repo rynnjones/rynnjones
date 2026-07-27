@@ -17,7 +17,7 @@
 I'm a final-year **BSc (Hons) Software Engineering** student at the **University of Portsmouth**, and I spend most of my time outside lectures shipping products rather than reading about them.
 
 - 🏗️ Building **Crestwell** — B2B workflow software for UK mortgage brokers
-- 📈 Building **AlphaVisual** — an AI-powered chart analysis tool that teaches traders to read price action
+- 📈 Building **Breakout** — an AI-powered chart analysis tool that teaches traders to read price action
 - 🧠 Interested in the intersection of **fintech, education, and applied AI**
 - ⚡ I learn by building: prototype first, document second, scale when it earns it
 - 📫 Open to collaboration, freelance work, and interesting conversations
