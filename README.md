@@ -55,5 +55,5 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rynnjones&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynnjones&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages"> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=rynnjones&hide_border=true&theme=tokyonight" alt="Streak stats"> </p>
