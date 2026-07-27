@@ -16,7 +16,7 @@
 
 I'm a final-year **BSc (Hons) Software Engineering** student at the **University of Portsmouth**, and I spend most of my time outside lectures shipping products rather than reading about them.
 
-- 🏗️ Building **BrokerFlow** — B2B workflow software for UK mortgage brokers
+- 🏗️ Building **Crestwell** — B2B workflow software for UK mortgage brokers
 - 📈 Building **AlphaVisual** — an AI-powered chart analysis tool that teaches traders to read price action
 - 🧠 Interested in the intersection of **fintech, education, and applied AI**
 - ⚡ I learn by building: prototype first, document second, scale when it earns it
@@ -28,7 +28,7 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
 
 | Project | What it is | Stack |
 |---|---|---|
-| **BrokerFlow** | Client onboarding, case tracking and compliance tooling for UK mortgage brokers | Next.js · Supabase · Stripe · Vercel |
+| **Crestwell** | Client onboarding, case tracking and compliance tooling for UK mortgage brokers | Next.js · Supabase · Stripe · Vercel |
 | **AlphaVisual** | Educational platform that analyses uploaded charts against a versioned strategy knowledge base | Next.js · Express · Supabase · LLM APIs |
 
 ---
@@ -58,12 +58,12 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rynnjones&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynnjones&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&theme=tokyonight" alt="Streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rynnjones&hide_border=true&theme=tokyonight" alt="Streak stats">
 </p>
 
 ---
@@ -71,6 +71,6 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
 ## 📌 Pinned Elsewhere
 
 - ✍️ I write about building software businesses as a student on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🎯 Currently focused on getting BrokerFlow in front of its first paying brokers
+- 🎯 Currently focused on getting Crestwell in front of its first paying brokers
 
 <p align="center"><i>Always building. Usually shipping. Occasionally sleeping.</i></p>
