@@ -66,11 +66,3 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rynnjones&hide_border=true&theme=tokyonight" alt="Streak stats">
 </p>
 
----
-
-## 📌 Pinned Elsewhere
-
-- ✍️ I write about building software businesses as a student on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🎯 Currently focused on getting Crestwell in front of its first paying brokers
-
-<p align="center"><i>Always building. Usually shipping. Occasionally sleeping.</i></p>
