@@ -29,7 +29,7 @@ I'm a final-year **BSc (Hons) Software Engineering** student at the **University
 | Project | What it is | Stack |
 |---|---|---|
 | **Crestwell** | Client onboarding, case tracking and compliance tooling for UK mortgage brokers | Next.js · Supabase · Stripe · Vercel |
-| **AlphaVisual** | Educational platform that analyses uploaded charts against a versioned strategy knowledge base | Next.js · Express · Supabase · LLM APIs |
+| **Breakout** | Educational platform that analyses uploaded charts against a versioned strategy knowledge base | Next.js · Express · Supabase · LLM APIs |
 
 ---
 
