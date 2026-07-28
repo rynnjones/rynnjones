@@ -56,12 +56,3 @@ I'm a **BSc (Hons) Software Engineering** graduate of the **University of Portsm
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynnjones&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top languages">
 </p>
 -->
-
----
-
-## 📌 Pinned Elsewhere
-
-- ✍️ I write about building software businesses on [LinkedIn](https://www.linkedin.com/in/rynnjones)
-- 🎯 Currently focused on getting Crestwell in front of its first paying brokers
-
-<p align="center"><i>Always building. Usually shipping. Occasionally sleeping.</i></p>
