@@ -4,7 +4,7 @@
   <b>Software Engineering Graduate · Founder · Building vertical SaaS in fintech &amp; proptech</b>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynnjones) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rynnjones) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com) [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-WEBSITE.com)
 
 ---
 
