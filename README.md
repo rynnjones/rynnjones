@@ -6,14 +6,14 @@ I'm a software engineering graduate based in London, and right now I'm building 
 
 Crestwell is software that does the paperwork for UK mortgage brokers. A broker gives it a client's documents and a recording of their meeting, and it fills in the mortgage fact find. Every answer shows where it came from, whether that's a payslip or something the client said.
 
-- Drafts the fact find from payslips, bank statements and ID
-- Records and transcribes meetings into a draft file
-- Checks files, writes suitability letters and file notes
-- A CRM for the pipeline, commission and remortgages
+- Drafts the fact find from all of your clients documents
+- Records and transcribes meetings and fills straight into your fact find
+- Checks files, writes suitability letters, file notes and so much more
+- A CRM for the pipeline, commissions, remortgages, team & client communication and daily tasks
 
 The adviser still checks and signs off everything, and Crestwell never gives advice itself.
 
-It's in early access now. If you run a brokerage, or know someone who does, have a look.
+It's in early access now. If you run a brokerage, or know someone who does, take a peak.
 
 [![Get early access at crestwell.uk](assets/early-access.svg)](https://www.crestwell.uk)
 
