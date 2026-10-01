@@ -13,7 +13,7 @@ Crestwell is software that does the paperwork for UK mortgage brokers. A broker 
 
 The adviser still checks and signs off everything, and Crestwell never gives advice itself.
 
-It's in early access now. If you run a brokerage, or know someone who does, take a peek or email me at [ryan@crestwell.uk](mailto:ryan@crestwell.uk).
+It's in early access now. If you run a brokerage, or know someone who does, take a peek or email me at [hello@crestwell.uk](mailto:hello@crestwell.uk).
 
 [![Get early access at crestwell.uk](assets/early-access.svg)](https://www.crestwell.uk)
 
