@@ -1,4 +1,4 @@
-<a href="https://www.crestwell.uk"><img src="assets/crestwell-banner.png" alt="Crestwell" width="100%"></a>
+<a href="https://www.crestwell.uk"><img src="assets/crestwell-banner-animated.svg" alt="Crestwell" width="100%"></a>
 
 ### Hi, I'm Ryan
 
